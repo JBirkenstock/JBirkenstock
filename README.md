@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JBirkenstock
-- 👀 I’m interested in writing and video games
 
 
 <!---
